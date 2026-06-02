@@ -1,0 +1,837 @@
+2026-05-28 09:05:03,783 - INFO - [__main__] - 测试接口：你好
+2026-05-28 09:30:38,362 - INFO - [ai.agnet.system_agent] - 初始化智能体
+2026-05-28 09:30:38,362 - INFO - [ai.agnet.system_agent] - 创建智能体实例成功
+2026-05-28 09:34:19,388 - INFO - [ai.agnet.system_agent] - 创建智能体实例失败
+2026-05-28 11:04:25,528 - INFO - [ai.agnet.system_agent] - 初始化智能体
+2026-05-28 11:04:25,528 - INFO - [ai.agnet.system_agent] - 创建智能体实例成功
+2026-05-28 11:13:41,095 - INFO - [ai.agnet.system_agent] - 登录接口参数：email='111' code='22'
+2026-05-28 13:41:50,645 - INFO - [ai.agnet.system_agent] - 创建智能体实例失败
+2026-05-28 13:48:39,119 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 13:50:55,414 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 13:52:27,141 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 13:53:06,304 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 13:57:57,299 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 13:57:58,697 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 13:58:00,106 - INFO - [app.ai.tool.email_toll] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱不存在'}
+2026-05-28 13:58:11,175 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 13:58:13,335 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 13:58:14,887 - INFO - [app.ai.tool.email_toll] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱不存在'}
+2026-05-28 14:06:43,951 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:08:12,901 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:09:28,726 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:09:48,585 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:11:00,638 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:11:01,868 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:11:53,554 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:11:54,720 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:11:55,503 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:12:57,116 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:12:58,448 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:16:59,126 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:17:00,473 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:18:20,063 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:18:21,390 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:18:28,139 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:18:29,476 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:18:46,094 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:18:47,361 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:18:48,258 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:18:49,426 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:49,028 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:21:50,391 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:51,246 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:52,010 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:52,773 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:53,576 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:54,443 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:55,290 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:56,056 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:56,853 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:57,693 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:58,476 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:21:59,256 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:12,046 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:27:16,196 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:18,050 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:18,848 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:20,321 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:23,847 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:26,869 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:27,721 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:28,554 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:29,339 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:30,108 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:30,896 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:27:33,884 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:28:27,268 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:28:28,587 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:28:29,370 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:28:30,227 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:29:06,489 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:29:07,747 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:29:08,582 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:29:10,607 - INFO - [app.ai.tool.email_toll] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱不存在'}
+2026-05-28 14:30:30,505 - INFO - [app.ai.tool.email_toll] - 初始化登录验证码智能体
+2026-05-28 14:30:31,793 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:30:32,634 - WARNING - [app.ai.tool.email_toll] - 查询失败
+2026-05-28 14:30:34,709 - INFO - [app.ai.tool.email_toll] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱不存在'}
+2026-05-28 14:36:03,104 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:36:04,441 - WARNING - [app.ai.tool.mysql_tool] - 查询失败
+2026-05-28 14:36:05,239 - WARNING - [app.ai.tool.mysql_tool] - 查询失败
+2026-05-28 14:36:07,230 - WARNING - [app.ai.tool.mysql_tool] - 查询失败
+2026-05-28 14:36:08,099 - WARNING - [app.ai.tool.mysql_tool] - 查询失败
+2026-05-28 14:36:08,961 - WARNING - [app.ai.tool.mysql_tool] - 查询失败
+2026-05-28 14:36:11,293 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱不存在'}
+2026-05-28 14:36:40,563 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:36:41,891 - WARNING - [app.ai.tool.mysql_tool] - 查询失败
+2026-05-28 14:39:53,930 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:39:55,265 - WARNING - [app.ai.tool.mysql_tool] - 查询失败
+2026-05-28 14:39:56,094 - WARNING - [app.ai.tool.mysql_tool] - 查询失败
+2026-05-28 14:42:02,043 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:42:03,330 - WARNING - [app.ai.tool.mysql_tool] - 查询失败
+2026-05-28 14:42:05,318 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱未注册'}
+2026-05-28 14:44:33,636 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:44:39,864 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:44:42,389 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:44:45,775 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:44:48,308 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:44:54,460 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:44:55,278 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '验证码', 'code': '200', 'msg': '发送成功'}
+2026-05-28 14:48:03,889 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:48:08,496 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:48:10,286 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '6741', 'code': '200', 'msg': '发送成功'}
+2026-05-28 14:49:32,090 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:49:39,869 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:49:42,363 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:49:44,504 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '6741', 'code': '200', 'msg': '发送成功'}
+2026-05-28 14:51:48,539 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:51:54,726 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:51:57,297 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:51:59,987 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:52:03,457 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:52:06,204 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:52:08,683 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:52:11,195 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:52:15,610 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:52:18,171 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:52:21,703 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:53:18,853 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:53:35,845 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:53:40,145 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:53:43,903 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:55:39,208 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 14:55:45,326 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 14:55:46,127 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '9382', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:01:11,643 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:02:08,247 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:02:22,628 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:02:26,325 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:30:39,265 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:30:39,708 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:32:57,632 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 15:33:03,452 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:33:03,836 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:34:13,407 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 15:34:37,990 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:34:38,357 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:36:13,278 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 15:36:18,360 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:36:18,724 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:36:40,025 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:36:43,165 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7381', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:39:07,559 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 15:39:11,891 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:39:12,249 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:39:29,052 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:39:33,455 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:41:27,846 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 15:41:31,973 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:41:32,343 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:41:48,004 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:41:51,204 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:44:49,119 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 15:44:53,153 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:44:53,514 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:46:11,300 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 15:46:31,591 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:46:44,809 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:46:47,817 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:47:22,358 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:47:22,805 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:47:41,282 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:47:44,162 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:49:04,344 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:49:07,905 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '5827', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:49:07,958 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 15:49:13,192 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:49:13,538 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:49:28,610 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:49:34,726 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:51:31,582 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:51:34,767 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:52:06,802 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 15:52:11,710 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 15:52:12,068 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 15:52:37,749 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 15:52:41,040 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 15:52:41,042 - INFO - [app.ai.tool.mysql_tool] - 验证码发送成功，存储成功
+2026-05-28 16:03:03,559 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 16:10:02,605 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 16:10:03,130 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 16:11:27,219 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 16:11:31,772 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '8742', 'code': '200', 'msg': '发送成功'}
+2026-05-28 16:11:31,774 - INFO - [app.ai.tool.mysql_tool] - 验证码发送成功，存储成功
+2026-05-28 16:11:39,439 - INFO - [app.ai.tool.mysql_tool] - 字节码:b'8742'
+2026-05-28 16:11:47,175 - INFO - [app.ai.tool.mysql_tool] - 字节码:b'8742'
+2026-05-28 16:15:13,005 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 16:15:17,279 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 16:15:17,649 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 16:16:32,488 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 16:16:36,297 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7492', 'code': '200', 'msg': '发送成功'}
+2026-05-28 16:16:36,299 - INFO - [app.ai.tool.mysql_tool] - 验证码发送成功，存储成功
+2026-05-28 16:17:19,212 - INFO - [app.ai.tool.mysql_tool] - 字节码:None
+2026-05-28 16:17:19,213 - WARNING - [app.ai.tool.mysql_tool] - 验证码超过1分钟，请重新获取：'NoneType' object has no attribute 'decode'
+2026-05-28 16:28:50,663 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 16:55:20,834 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-28 16:55:30,457 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 16:55:35,095 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7392', 'code': '200', 'msg': '发送成功'}
+2026-05-28 16:56:12,616 - INFO - [app.ai.tool.email_tool] - 初始化注册验证码智能体
+2026-05-28 16:56:20,069 - INFO - [app.ai.tool.email_tool] - 邮件发送成功
+2026-05-28 16:56:23,379 - INFO - [app.ai.tool.email_tool] - 智能体返回结果：{'data': '5832', 'code': '200', 'msg': '发送成功'}
+2026-05-28 17:03:29,358 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-28 17:03:34,900 - WARNING - [app.ai.tool.mysql_tool] - MySQL 执行失败：(1054, "Unknown column 'email' in 'where clause'")
+2026-05-28 17:03:45,811 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱已存在'}
+2026-05-28 17:04:14,103 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-28 17:04:17,922 - WARNING - [app.ai.tool.mysql_tool] - MySQL 执行失败：(1054, "Unknown column 'email' in 'where clause'")
+2026-05-28 17:04:29,025 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱已存在'}
+2026-05-28 17:06:02,863 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-28 17:06:12,168 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱已存在'}
+2026-05-28 17:07:24,118 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-28 17:07:36,783 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 17:07:40,702 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 17:13:43,101 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-28 17:14:10,107 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-28 17:16:18,345 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-28 17:16:24,804 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{"code": "200", "msg": "写入成功"}
+2026-05-28 18:36:21,756 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 18:36:22,261 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 18:40:50,642 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 18:40:54,987 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 18:40:55,344 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-28 18:40:55,348 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 18:41:55,648 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 18:41:59,148 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 18:41:59,497 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-28 18:41:59,502 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 18:42:16,570 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 18:42:20,613 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 18:42:20,619 - INFO - [app.ai.tool.mysql_tool] - 验证码发送成功，存储成功
+2026-05-28 18:56:53,210 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-28 18:56:57,832 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-28 18:56:58,195 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-28 18:56:58,200 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-28 18:56:58,206 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-28 18:57:19,954 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '0', 'code': '500', 'msg': '邮箱未注册'}
+2026-05-28 18:57:19,955 - INFO - [app.ai.tool.mysql_tool] - 验证码发送成功，存储成功
+2026-05-28 18:58:59,049 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-28 18:59:02,684 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '7391', 'code': '200', 'msg': '发送成功'}
+2026-05-28 18:59:02,684 - INFO - [app.ai.tool.mysql_tool] - 验证码发送成功，存储成功
+2026-05-28 18:59:15,814 - INFO - [app.ai.tool.mysql_tool] - 字节码:b'7391'
+2026-05-28 18:59:25,010 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：写入成功！
+
+- **状态码**：200
+- **提示信息**：写入成功
+- **写入详情**：用户 `hhh`（邮箱：3327354636@qq.com）已成功写入 `user_info` 表，影响行数：1。
+2026-05-28 18:59:25,010 - INFO - [app.ai.tool.mysql_tool] - 用户信息写入结果：写入成功！
+
+- **状态码**：200
+- **提示信息**：写入成功
+- **写入详情**：用户 `hhh`（邮箱：3327354636@qq.com）已成功写入 `user_info` 表，影响行数：1。
+2026-05-28 19:42:35,367 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 09:35:25,991 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 09:38:33,037 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 09:41:21,776 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 09:55:03,161 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 09:55:03,499 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 09:55:03,504 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 09:55:03,510 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 09:55:03,515 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 09:55:03,515 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 10:27:52,938 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 10:27:52,939 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 10:27:57,269 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 10:27:57,632 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 10:27:57,637 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 10:27:57,642 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 10:27:57,647 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 10:27:57,647 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 10:33:51,060 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 10:33:51,060 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 10:33:56,773 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 10:33:57,109 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 10:33:57,114 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 10:33:57,119 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 10:33:57,124 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 10:33:57,124 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 10:38:00,046 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 10:40:10,637 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 10:40:10,637 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 10:40:14,608 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 10:40:14,970 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 10:40:14,975 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 10:40:14,980 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 10:40:14,985 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 10:40:14,985 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 10:42:33,087 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 10:42:33,087 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 10:42:42,204 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 10:45:37,680 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 10:45:38,023 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 10:45:38,027 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 10:45:38,032 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 10:45:38,037 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 10:45:38,037 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 10:54:22,570 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 10:54:22,570 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 10:54:26,823 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 10:58:06,372 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 10:58:06,815 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 10:58:06,820 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 10:58:06,825 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 10:58:06,829 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 10:58:06,830 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 11:00:00,086 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 11:00:00,086 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 11:00:03,890 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:00:04,247 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 11:00:04,251 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 11:00:04,256 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 11:00:04,260 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 11:00:04,260 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 11:02:43,676 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 11:02:43,676 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 11:02:47,873 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:02:48,223 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 11:02:48,228 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 11:02:48,233 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 11:02:48,238 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 11:02:48,238 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 11:03:19,900 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 11:03:19,901 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 11:03:24,000 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:03:24,341 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 11:03:24,346 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 11:03:24,351 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 11:03:24,355 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 11:03:24,355 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 11:05:31,293 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 11:05:31,293 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 11:05:36,998 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:05:37,357 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 11:05:37,362 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 11:05:37,367 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 11:05:37,372 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 11:05:37,372 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 11:07:11,319 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 11:07:11,319 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 11:07:41,415 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:11:31,487 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:11:47,786 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:19:29,090 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:19:35,333 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-29 11:19:36,574 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '8429', 'code': '200', 'msg': '发送成功'}
+2026-05-29 11:22:17,475 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:23:12,325 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:23:28,028 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:26:17,302 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:27:38,141 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:28:10,300 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:31:13,981 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:31:14,325 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 11:31:14,330 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 11:31:14,335 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 11:31:14,339 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 11:31:14,339 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 11:31:38,903 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-05-29 11:31:40,786 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '8429', 'code': '200', 'msg': '发送成功'}
+2026-05-29 11:31:40,797 - INFO - [app.ai.tool.mysql_tool] - 验证码发送成功，存储成功
+2026-05-29 11:31:51,178 - INFO - [app.ai.tool.mysql_tool] - 字节码:b'8429'
+2026-05-29 11:39:48,607 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 11:39:48,607 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 11:39:54,477 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:39:54,827 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 11:39:54,833 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 11:39:54,837 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 11:39:54,842 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 11:39:54,842 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 11:40:25,338 - ERROR - [app.ai.tool.mysql_tool] - 智能体处理请求时发生错误：'SqlQuestionAgent' object has no attribute 'async_answer'
+2026-05-29 11:43:22,199 - ERROR - [app.ai.tool.mysql_tool] - 智能体处理请求时发生错误：'SqlQuestionAgent' object has no attribute 'async_answer'
+2026-05-29 11:46:33,664 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 11:46:33,664 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 11:46:57,801 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 11:49:41,523 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 11:49:41,865 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 11:49:41,870 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 11:49:41,874 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 11:49:41,878 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 11:49:41,878 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 13:51:07,191 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 13:51:07,192 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 13:51:51,201 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 13:52:48,404 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 13:54:54,191 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 13:59:56,153 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 14:08:12,350 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 14:11:40,825 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 14:16:37,394 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 14:16:37,740 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 14:16:37,746 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 14:16:37,751 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 14:16:37,756 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 14:16:37,756 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 14:16:37,756 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 14:16:42,186 - ERROR - [app.ai.tool.mysql_tool] - 智能体处理请求时发生错误：Psycopg cannot use the 'ProactorEventLoop' to run in async mode. Please use a compatible event loop, for instance by running 'asyncio.run(..., loop_factory=asyncio.SelectorEventLoop(selectors.SelectSelector()))'
+2026-05-29 14:17:41,438 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 14:17:41,438 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 14:19:15,223 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 14:19:15,564 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 14:19:15,569 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 14:19:15,574 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 14:19:15,579 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 14:19:15,579 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 14:19:15,579 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 14:24:56,892 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 14:24:56,892 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 14:24:59,446 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 14:24:59,804 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 14:24:59,809 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 14:24:59,813 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 14:24:59,817 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 14:24:59,817 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 14:24:59,817 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 14:25:00,114 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 14:25:00,114 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 14:29:01,549 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:00:46,188 - WARNING - [__main__] - MySQL 执行失败：int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-29 15:02:15,803 - WARNING - [__main__] - MySQL 执行失败：int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-29 15:02:56,247 - WARNING - [__main__] - MySQL 执行失败：int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-29 15:03:06,781 - WARNING - [__main__] - MySQL 执行失败：int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-29 15:03:17,927 - WARNING - [__main__] - MySQL 执行失败：int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-29 15:04:10,246 - WARNING - [__main__] - MySQL 执行失败
+2026-05-29 15:08:07,720 - WARNING - [__main__] - MySQL 执行失败
+2026-05-29 15:10:10,576 - WARNING - [__main__] - MySQL 执行失败
+2026-05-29 15:10:38,383 - WARNING - [__main__] - MySQL 执行失败
+2026-05-29 15:31:05,532 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:32:16,846 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:33:45,406 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:35:11,371 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:38:06,725 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:51:07,124 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:51:07,559 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 15:51:07,600 - ERROR - [app.ai.tool.mysql_tool] - 用户没有权限执行该操作
+2026-05-29 15:52:07,606 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:52:08,166 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 15:52:08,174 - ERROR - [app.ai.tool.mysql_tool] - 用户没有权限执行该操作
+2026-05-29 15:52:22,369 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:52:22,796 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 15:52:22,816 - ERROR - [app.ai.tool.mysql_tool] - 用户没有权限执行该操作
+2026-05-29 15:53:15,579 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:53:15,991 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 15:58:40,114 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 15:58:40,456 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 15:58:40,461 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 15:58:40,466 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:58:40,470 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 15:58:40,471 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 15:58:40,471 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 15:58:43,497 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 15:58:43,540 - ERROR - [app.ai.tool.mysql_tool] - 用户没有权限执行该操作
+2026-05-29 15:58:43,541 - ERROR - [app.ai.tool.mysql_tool] - 智能体处理请求时发生错误：Object of type Exception is not JSON serializable
+2026-05-29 16:04:04,031 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 16:04:04,051 - ERROR - [app.ai.tool.mysql_tool] - 用户没有权限执行该操作
+2026-05-29 16:04:04,051 - ERROR - [app.ai.tool.mysql_tool] - 智能体处理请求时发生错误：Object of type Exception is not JSON serializable
+2026-05-29 16:11:21,720 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 16:11:21,720 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 16:11:24,301 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 16:11:24,641 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 16:11:24,645 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 16:11:24,650 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 16:11:24,654 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 16:11:24,655 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 16:11:24,655 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 16:11:31,672 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 16:11:32,019 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 16:11:32,024 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 16:11:32,028 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 16:11:32,033 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 16:11:32,033 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 16:11:32,033 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 16:11:41,613 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 16:11:41,648 - ERROR - [app.ai.tool.mysql_tool] - 用户没有权限执行该操作
+2026-05-29 16:40:18,878 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 16:40:18,878 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 16:40:21,464 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 16:40:21,834 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 16:40:21,839 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 16:40:21,844 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 16:40:21,849 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 16:40:21,849 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 16:40:21,849 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 16:40:25,650 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-29 16:40:25,650 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-29 16:40:28,186 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 16:40:28,551 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 16:40:28,555 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 16:40:28,560 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 16:40:28,566 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 16:40:28,566 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 16:40:28,566 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 17:27:01,792 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-29 17:27:02,210 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 17:27:11,668 - INFO - [app.ai.tool.mysql_tool] - {'json': '{"title": {"text": "2023年1月各商品分类销售额柱状图"}, "tooltip": {"trigger": "axis"}, "xAxis": {"type": "category", "data": ["台式机", "智能家居", "音响", "存储", "手机", "家电", "阅读器", "耳机", "出行"]}, "yAxis": {"type": "value"}, "series": [{"name": "销售额", "type": "bar", "data": [456000.0, 456000.0, 389000.0, 256000.0, 245000.0, 234000.0, 234000.0, 156000.0, 156000.0]}], "toolbox": {"feature": {"saveAsImage": {}}}}', 'code': 200, 'msg': '生成成功'}
+2026-05-29 18:45:36,635 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-29 18:45:37,071 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-29 18:45:37,076 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-29 18:45:37,084 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 18:45:37,089 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-29 18:45:37,089 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-29 18:45:37,089 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-29 18:45:37,089 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-29 19:03:40,215 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 19:04:43,868 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 19:04:53,801 - INFO - [app.ai.tool.mysql_tool] - {'json': '{"title": {"text": "2023年1月各商品分类销售额柱状图"}, "tooltip": {"trigger": "axis"}, "xAxis": {"type": "category", "data": ["台式机", "智能家居", "音响", "存储", "手机", "家电", "阅读器", "耳机", "出行"]}, "yAxis": {"type": "value"}, "series": [{"name": "销售额", "type": "bar", "data": [456000.0, 456000.0, 389000.0, 256000.0, 245000.0, 234000.0, 234000.0, 156000.0, 156000.0]}], "toolbox": {"feature": {"saveAsImage": {}}}}', 'code': 200, 'msg': '生成成功'}
+2026-05-29 19:12:11,221 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 19:12:43,826 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 19:13:06,224 - ERROR - [app.ai.tool.mysql_tool] - Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2026-05-29 19:14:04,149 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 19:14:12,687 - INFO - [app.ai.tool.mysql_tool] - {'json': '{"title": {"text": "2023年1月销售数据柱状图"}, "tooltip": {"trigger": "axis"}, "xAxis": {"type": "category", "data": ["台式机", "智能家居", "音响", "存储", "手机", "家电", "阅读器", "耳机", "出行"]}, "yAxis": {"type": "value"}, "series": [{"name": "销售额", "type": "bar", "data": [456000.0, 456000.0, 389000.0, 256000.0, 245000.0, 234000.0, 234000.0, 156000.0, 156000.0]}], "toolbox": {"feature": {"saveAsImage": {}}}}', 'code': 200, 'msg': '生成成功'}
+2026-05-29 19:19:50,710 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-29 19:20:00,614 - INFO - [app.ai.tool.mysql_tool] - {'json': '{"title": {"text": "2023年1月销售数据柱状图"}, "tooltip": {"trigger": "axis"}, "xAxis": {"type": "category", "data": ["台式机", "智能家居", "音响", "存储", "手机", "家电", "阅读器", "耳机", "出行"]}, "yAxis": {"type": "value"}, "series": [{"name": "销售额", "type": "bar", "data": [456000.0, 456000.0, 389000.0, 256000.0, 245000.0, 234000.0, 234000.0, 156000.0, 156000.0]}], "toolbox": {"feature": {"saveAsImage": {}}}}', 'code': 200, 'msg': '生成成功'}
+2026-05-29 19:22:16,471 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-30 09:31:41,480 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 09:31:42,146 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-30 09:31:44,205 - WARNING - [app.ai.tool.mysql_tool] - MySQL 执行失败
+2026-05-30 09:31:44,207 - ERROR - [app.ai.tool.mysql_tool] - 用户没有权限执行该操作
+2026-05-30 09:33:01,971 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 09:33:02,408 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-30 09:33:32,298 - INFO - [app.ai.tool.mysql_tool] - {'table': {'column_name': ['year', 'total_sales', 'total_orders', 'total_quantity_sold', 'category', 'average_order_value'], 'data': [{'year': '2023-03', 'total_sales': '298000.0', 'total_orders': '520', 'total_quantity_sold': '610', 'category': '手机', 'average_order_value': '573.08'}, {'year': '2023-03', 'total_sales': '176500.0', 'total_orders': '390', 'total_quantity_sold': '470', 'category': '耳机', 'average_order_value': '452.56'}, {'year': '2023-03', 'total_sales': '256000.0', 'total_orders': '520', 'total_quantity_sold': '640', 'category': '家电', 'average_order_value': '492.31'}, {'year': '2023-03', 'total_sales': '287000.0', 'total_orders': '990', 'total_quantity_sold': '1280', 'category': '存储', 'average_order_value': '289.9'}, {'year': '2023-03', 'total_sales': '176500.0', 'total_orders': '360', 'total_quantity_sold': '450', 'category': '出行', 'average_order_value': '490.28'}, {'year': '2023-03', 'total_sales': '256000.0', 'total_orders': '490', 'total_quantity_sold': '610', 'category': '阅读器', 'average_order_value': '522.45'}, {'year': '2023-03', 'total_sales': '498000.0', 'total_orders': '310', 'total_quantity_sold': '380', 'category': '音响', 'average_order_value': '1606.45'}, {'year': '2023-03', 'total_sales': '389000.0', 'total_orders': '770', 'total_quantity_sold': '960', 'category': '台式机', 'average_order_value': '505.19'}, {'year': '2023-03', 'total_sales': '389000.0', 'total_orders': '260', 'total_quantity_sold': '330', 'category': '智能家居', 'average_order_value': '1496.15'}]}, 'result': '一:详细分析\n    1 销售总额分析:\n        2023年3月销售总额最高的商品分类是音响，达到498,000.0元；其次是台式机和智能家居，均为389,000.0元。\n        销售总额最低的商品分类是耳机和出行，均为176,500.0元。\n    2 订单数量分析:\n        存储类商品的订单数量最多，达到990单；其次是台式机，为770单。\n        音响和智能家居的订单数量最少，分别为310单和260单。\n    3 平均订单金额分析:\n        音响的平均订单金额最高，为1606.45元；智能家居次之，为1496.15元。\n        存储类商品的平均订单金额最低，仅为289.9元。\n\n二:结论部分:\n    .音响和智能家居虽然订单数量较少，但平均订单金额和销售总额较高，表明其属于高单价商品。\n    .存储类商品订单数量最多，但平均订单金额最低，说明其属于低单价、高销量的商品。\n    .耳机和出行类商品在销售总额和订单数量上均表现较弱，可能需要进一步的市场推广或产品优化。', 'json': '{"title": {"text": "2023年3月销售情况分析"}, "tooltip": {"trigger": "axis"}, "legend": {"data": ["销售总额", "订单数量", "平均订单金额"]}, "xAxis": {"type": "category", "data": ["手机", "耳机", "家电", "存储", "出行", "阅读器", "音响", "台式机", "智能家居"]}, "yAxis": [{"type": "value", "name": "销售总额"}, {"type": "value", "name": "订单数量"}, {"type": "value", "name": "平均订单金额"}], "series": [{"name": "销售总额", "type": "bar", "data": [298000.0, 176500.0, 256000.0, 287000.0, 176500.0, 256000.0, 498000.0, 389000.0, 389000.0]}, {"name": "订单数量", "type": "bar", "data": [520, 390, 520, 990, 360, 490, 310, 770, 260]}, {"name": "平均订单金额", "type": "line", "yAxisIndex": 2, "data": [573.08, 452.56, 492.31, 289.9, 490.28, 522.45, 1606.45, 505.19, 1496.15]}], "toolbox": {"feature": {"saveAsImage": {}}}}'}
+2026-05-30 09:43:26,773 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-30 09:43:27,116 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-30 09:43:27,121 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-30 09:43:27,125 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 09:43:27,130 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 09:43:27,131 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-30 09:43:27,131 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 09:43:27,131 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-30 09:43:27,131 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-30 10:35:49,418 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-30 10:36:16,869 - INFO - [app.ai.tool.mysql_tool] - {'table': {'column_name': ['year', 'total_sales', 'total_orders', 'total_quantity_sold', 'category', 'average_order_value'], 'data': [{'year': '2023-03', 'total_sales': '298000.0', 'total_orders': '520', 'total_quantity_sold': '610', 'category': '手机', 'average_order_value': '573.08'}, {'year': '2023-03', 'total_sales': '176500.0', 'total_orders': '390', 'total_quantity_sold': '470', 'category': '耳机', 'average_order_value': '452.56'}, {'year': '2023-03', 'total_sales': '256000.0', 'total_orders': '520', 'total_quantity_sold': '640', 'category': '家电', 'average_order_value': '492.31'}, {'year': '2023-03', 'total_sales': '287000.0', 'total_orders': '990', 'total_quantity_sold': '1280', 'category': '存储', 'average_order_value': '289.9'}, {'year': '2023-03', 'total_sales': '176500.0', 'total_orders': '360', 'total_quantity_sold': '450', 'category': '出行', 'average_order_value': '490.28'}, {'year': '2023-03', 'total_sales': '256000.0', 'total_orders': '490', 'total_quantity_sold': '610', 'category': '阅读器', 'average_order_value': '522.45'}, {'year': '2023-03', 'total_sales': '498000.0', 'total_orders': '310', 'total_quantity_sold': '380', 'category': '音响', 'average_order_value': '1606.45'}, {'year': '2023-03', 'total_sales': '389000.0', 'total_orders': '770', 'total_quantity_sold': '960', 'category': '台式机', 'average_order_value': '505.19'}, {'year': '2023-03', 'total_sales': '389000.0', 'total_orders': '260', 'total_quantity_sold': '330', 'category': '智能家居', 'average_order_value': '1496.15'}]}, 'result': '一:详细分析\n    1 销售总额分析:\n        2023年3月销售总额最高的商品分类是音响，达到498,000.0元；其次是台式机和智能家居，均为389,000.0元。\n        销售总额最低的商品分类是耳机和出行，均为176,500.0元。\n    2 订单数量分析:\n        存储类商品的订单数量最多，达到990单；其次是台式机，为770单。\n        音响和智能家居的订单数量最少，分别为310单和260单。\n    3 平均订单金额分析:\n        音响的平均订单金额最高，为1606.45元；智能家居次之，为1496.15元。\n        存储类商品的平均订单金额最低，仅为289.9元。\n\n二:结论部分:\n    .音响和智能家居虽然订单数量较少，但平均订单金额和销售总额较高，表明其属于高单价商品。\n    .存储类商品订单数量最多，但平均订单金额最低，说明其属于低单价、高销量的商品。\n    .耳机和出行类商品在销售总额和订单数量上均表现较弱，可能需要进一步的市场推广或产品优化。', 'json': '{"title": {"text": "2023年3月销售情况分析"}, "tooltip": {"trigger": "axis"}, "legend": {"data": ["销售总额", "订单数量", "平均订单金额"]}, "xAxis": {"type": "category", "data": ["手机", "耳机", "家电", "存储", "出行", "阅读器", "音响", "台式机", "智能家居"]}, "yAxis": [{"type": "value", "name": "销售总额"}, {"type": "value", "name": "订单数量"}, {"type": "value", "name": "平均订单金额"}], "series": [{"name": "销售总额", "type": "bar", "data": [298000.0, 176500.0, 256000.0, 287000.0, 176500.0, 256000.0, 498000.0, 389000.0, 389000.0]}, {"name": "订单数量", "type": "bar", "data": [520, 390, 520, 990, 360, 490, 310, 770, 260]}, {"name": "平均订单金额", "type": "line", "yAxisIndex": 2, "data": [573.08, 452.56, 492.31, 289.9, 490.28, 522.45, 1606.45, 505.19, 1496.15]}], "toolbox": {"feature": {"saveAsImage": {}}}}'}
+2026-05-30 10:55:28,780 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-30 10:57:10,750 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-30 10:57:11,106 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-30 10:57:11,110 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-30 10:57:11,115 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 10:57:11,120 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 10:57:11,120 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-30 10:57:11,120 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 10:57:11,120 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-30 10:57:11,121 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-30 10:57:18,336 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-05-30 10:57:58,496 - INFO - [app.ai.tool.mysql_tool] - {'table': {'column_name': ['year', 'total_sales', 'total_orders', 'total_quantity_sold', 'category', 'average_order_value'], 'data': [{'year': '2023-03', 'total_sales': '298000.0', 'total_orders': '520', 'total_quantity_sold': '610', 'category': '手机', 'average_order_value': '573.08'}, {'year': '2023-03', 'total_sales': '176500.0', 'total_orders': '390', 'total_quantity_sold': '470', 'category': '耳机', 'average_order_value': '452.56'}, {'year': '2023-03', 'total_sales': '256000.0', 'total_orders': '520', 'total_quantity_sold': '640', 'category': '家电', 'average_order_value': '492.31'}, {'year': '2023-03', 'total_sales': '287000.0', 'total_orders': '990', 'total_quantity_sold': '1280', 'category': '存储', 'average_order_value': '289.9'}, {'year': '2023-03', 'total_sales': '176500.0', 'total_orders': '360', 'total_quantity_sold': '450', 'category': '出行', 'average_order_value': '490.28'}, {'year': '2023-03', 'total_sales': '256000.0', 'total_orders': '490', 'total_quantity_sold': '610', 'category': '阅读器', 'average_order_value': '522.45'}, {'year': '2023-03', 'total_sales': '498000.0', 'total_orders': '310', 'total_quantity_sold': '380', 'category': '音响', 'average_order_value': '1606.45'}, {'year': '2023-03', 'total_sales': '389000.0', 'total_orders': '770', 'total_quantity_sold': '960', 'category': '台式机', 'average_order_value': '505.19'}, {'year': '2023-03', 'total_sales': '389000.0', 'total_orders': '260', 'total_quantity_sold': '330', 'category': '智能家居', 'average_order_value': '1496.15'}]}, 'result': '一:详细分析\n    1 销售总额分析:\n        2023年3月销售总额最高的商品分类是音响，达到498,000.0元；其次是台式机和智能家居，均为389,000.0元。\n        销售总额最低的商品分类是耳机和出行，均为176,500.0元。\n    2 订单数量分析:\n        存储类商品的订单数量最多，达到990单；其次是台式机，为770单。\n        音响和智能家居的订单数量最少，分别为310单和260单。\n    3 平均订单金额分析:\n        音响的平均订单金额最高，为1606.45元；智能家居次之，为1496.15元。\n        存储类商品的平均订单金额最低，仅为289.9元。\n\n二:结论部分:\n    .音响和智能家居虽然订单数量较少，但平均订单金额和销售总额较高，表明其属于高单价商品。\n    .存储类商品订单数量最多，但平均订单金额最低，说明其属于低单价、高销量的商品。\n    .耳机和出行类商品在销售总额和订单数量上均表现较弱，可能需要进一步的市场推广或产品优化。', 'json': '{"title": {"text": "2023年3月销售情况分析"}, "tooltip": {"trigger": "axis"}, "legend": {"data": ["销售总额", "订单数量", "平均订单金额"]}, "xAxis": {"type": "category", "data": ["手机", "耳机", "家电", "存储", "出行", "阅读器", "音响", "台式机", "智能家居"]}, "yAxis": [{"type": "value", "name": "销售总额"}, {"type": "value", "name": "订单数量"}, {"type": "value", "name": "平均订单金额"}], "series": [{"name": "销售总额", "type": "bar", "data": [298000.0, 176500.0, 256000.0, 287000.0, 176500.0, 256000.0, 498000.0, 389000.0, 389000.0]}, {"name": "订单数量", "type": "bar", "data": [520, 390, 520, 990, 360, 490, 310, 770, 260]}, {"name": "平均订单金额", "type": "line", "yAxisIndex": 2, "data": [573.08, 452.56, 492.31, 289.9, 490.28, 522.45, 1606.45, 505.19, 1496.15]}], "toolbox": {"feature": {"saveAsImage": {}}}}'}
+2026-05-30 11:26:49,765 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-30 11:26:49,765 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-30 11:26:52,322 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-30 11:26:52,682 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-30 11:26:52,687 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-30 11:26:52,692 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 11:26:52,696 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 11:26:52,696 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-30 11:26:52,696 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 11:26:52,697 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-30 11:26:52,697 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-30 13:32:54,243 - INFO - [app.ai.tool.docx_read_tool] - 初始化文件数据分析智能体
+2026-05-30 13:32:54,714 - INFO - [app.ai.tool.docx_read_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-05-30 13:32:54,715 - INFO - [app.ai.tool.docx_read_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-05-30 13:36:40,267 - INFO - [app.ai.tool.docx_read_tool] - 初始化文件数据分析智能体
+2026-05-30 13:36:40,606 - INFO - [app.ai.tool.docx_read_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-05-30 13:36:40,606 - INFO - [app.ai.tool.docx_read_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-05-30 14:45:44,719 - INFO - [app.ai.tool.docx_read_tool] - 初始化文件数据分析智能体
+2026-05-30 14:45:45,139 - INFO - [app.ai.tool.docx_read_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-05-30 14:45:45,139 - INFO - [app.ai.tool.docx_read_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-05-30 15:04:49,292 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-30 15:04:49,780 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-30 15:04:49,785 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-30 15:04:49,791 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:04:49,795 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:04:49,795 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-30 15:04:49,795 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 15:04:49,796 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-05-30 15:04:49,796 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-30 15:04:49,796 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-30 15:06:25,737 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-30 15:06:25,737 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-30 15:06:28,571 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-30 15:06:28,956 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-30 15:06:28,961 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-30 15:06:28,965 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:06:28,969 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:06:28,970 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-30 15:06:28,970 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 15:06:28,970 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-05-30 15:06:28,970 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-30 15:06:28,970 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-30 15:07:21,991 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-30 15:07:21,991 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-30 15:07:24,637 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-30 15:07:25,031 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-30 15:07:25,035 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-30 15:07:25,041 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:07:25,046 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:07:25,046 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-30 15:07:25,046 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 15:07:25,046 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-05-30 15:07:25,046 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-30 15:07:25,047 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-30 15:07:26,527 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-30 15:07:26,527 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-30 15:07:33,315 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-30 15:07:33,699 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-30 15:07:33,704 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-30 15:07:33,709 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:07:33,714 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:07:33,714 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-30 15:07:33,714 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 15:07:33,714 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-05-30 15:07:33,714 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-30 15:07:33,714 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-30 15:10:04,803 - INFO - [app.ai.tool.mysql_tool] - 上传文件：static/upload\word.docx
+2026-05-30 15:14:48,816 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-30 15:14:48,816 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-30 15:14:51,490 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-30 15:14:51,876 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-30 15:14:51,881 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-30 15:14:51,886 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:14:51,890 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:14:51,890 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-30 15:14:51,891 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 15:14:51,891 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-05-30 15:14:51,891 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-30 15:14:51,891 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-30 15:14:53,605 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-05-30 15:14:53,605 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-05-30 15:15:00,351 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-05-30 15:15:00,722 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-05-30 15:15:00,726 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-05-30 15:15:00,732 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:15:00,736 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-05-30 15:15:00,736 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-05-30 15:15:00,736 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-05-30 15:15:00,736 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-05-30 15:15:00,736 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-05-30 15:15:00,737 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-05-30 15:15:19,831 - INFO - [app.ai.tool.mysql_tool] - 上传文件：static/upload\word.docx
+2026-05-30 15:15:19,859 - INFO - [app.ai.tool.mysql_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-05-30 15:15:21,277 - ERROR - [app.ai.tool.mysql_tool] - 智能体处理请求时发生错误：Package not found at 'C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx'
+2026-05-30 15:18:44,351 - INFO - [app.ai.tool.mysql_tool] - 上传文件：static/upload\word.docx
+2026-05-30 15:18:44,356 - INFO - [app.ai.tool.mysql_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-05-30 15:18:45,696 - ERROR - [app.ai.tool.mysql_tool] - 智能体处理请求时发生错误：Package not found at 'C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx'
+2026-06-02 09:27:26,606 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 09:27:27,194 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 09:27:27,199 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 09:27:27,204 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 09:27:27,208 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 09:27:27,209 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 09:27:27,209 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 09:27:27,210 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 09:27:27,210 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 09:27:27,210 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 09:32:53,542 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-06-02 09:32:55,801 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '8429', 'code': '200', 'msg': '发送成功'}
+2026-06-02 09:32:55,803 - INFO - [app.ai.tool.mysql_tool] - 验证码发送成功，存储成功
+2026-06-02 09:33:07,632 - INFO - [app.ai.tool.mysql_tool] - 字节码:b'8429'
+2026-06-02 09:35:09,799 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:35:32,153 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:36:26,578 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:37:01,260 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:37:10,676 - INFO - [app.ai.tool.mysql_tool] - {'json': '{"title": {"text": "2023年1月销售数据柱状图分析"}, "tooltip": {"trigger": "axis"}, "xAxis": {"type": "category", "data": ["手机", "耳机", "家电", "存储", "出行", "阅读器", "音响", "台式机", "智能家居"]}, "yAxis": {"type": "value"}, "series": [{"name": "销售总额", "type": "bar", "data": [245000.0, 156000.0, 234000.0, 256000.0, 156000.0, 234000.0, 389000.0, 456000.0, 456000.0]}], "toolbox": {"feature": {"saveAsImage": {}}}}', 'code': 200, 'msg': '生成成功'}
+2026-06-02 09:37:29,769 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:38:02,373 - ERROR - [app.ai.tool.mysql_tool] - Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2026-06-02 09:41:31,897 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 09:41:31,897 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 09:41:35,185 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 09:41:35,689 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 09:41:35,694 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 09:41:35,700 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 09:41:35,703 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 09:41:35,704 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 09:41:35,704 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 09:41:35,704 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 09:41:35,704 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 09:41:35,704 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 09:41:42,197 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 09:41:42,197 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 09:41:51,114 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 09:41:51,515 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 09:41:51,520 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 09:41:51,524 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 09:41:51,529 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 09:41:51,529 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 09:41:51,529 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 09:41:51,529 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 09:41:51,529 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 09:41:51,530 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 09:43:27,696 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:43:53,457 - ERROR - [app.ai.tool.mysql_tool] - Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2026-06-02 09:46:44,436 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 09:46:44,436 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 09:47:06,130 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 09:47:06,662 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:47:33,544 - ERROR - [app.ai.tool.mysql_tool] - Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2026-06-02 09:52:13,789 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 09:52:14,207 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:52:44,990 - ERROR - [app.ai.tool.mysql_tool] - Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2026-06-02 09:54:19,057 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 09:54:19,486 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:54:54,581 - INFO - [app.ai.tool.mysql_tool] - {'table': {'column_name': ['category', 'total_sales', 'total_orders', 'total_quantity_sold', 'average_order_value'], 'data': [{'category': '音响', 'total_sales': '498000.0', 'total_orders': '310', 'total_quantity_sold': '380', 'average_order_value': '1606.45'}, {'category': '台式机', 'total_sales': '389000.0', 'total_orders': '770', 'total_quantity_sold': '960', 'average_order_value': '505.19'}, {'category': '智能家居', 'total_sales': '389000.0', 'total_orders': '260', 'total_quantity_sold': '330', 'average_order_value': '1496.15'}, {'category': '手机', 'total_sales': '298000.0', 'total_orders': '520', 'total_quantity_sold': '610', 'average_order_value': '573.08'}, {'category': '存储', 'total_sales': '287000.0', 'total_orders': '990', 'total_quantity_sold': '1280', 'average_order_value': '289.9'}, {'category': '家电', 'total_sales': '256000.0', 'total_orders': '520', 'total_quantity_sold': '640', 'average_order_value': '492.31'}, {'category': '阅读器', 'total_sales': '256000.0', 'total_orders': '490', 'total_quantity_sold': '610', 'average_order_value': '522.45'}, {'category': '耳机', 'total_sales': '176500.0', 'total_orders': '390', 'total_quantity_sold': '470', 'average_order_value': '452.56'}, {'category': '出行', 'total_sales': '176500.0', 'total_orders': '360', 'total_quantity_sold': '450', 'average_order_value': '490.28'}]}, 'result': '一:详细分析\n    1 销售额排名:\n        音响类商品以498,000元的销售额位居第一，远超其他品类。\n        台式机和智能家居并列第二，销售额均为389,000元。\n        手机、存储、家电和阅读器的销售额在256,000-298,000元之间。\n        耳机和出行类商品销售额最低，均为176,500元。\n\n    2 订单数量与客单价分析:\n        存储类商品订单数量最多(990单)，但客单价最低(289.9元)。\n        音响类商品订单数量最少(310单)，但客单价最高(1,606.45元)。\n        智能家居订单数量较少(260单)，但客单价高达1,496.15元，仅次于音响。\n        其他品类的客单价在450-575元之间，相对均衡。\n\n二:结论部分:\n    .高单价商品(如音响、智能家居)虽然订单量少，但贡献了较高的销售额。\n    .低单价商品(如存储)通过大量订单也能实现可观的销售额。\n    .不同品类的商品呈现出明显的消费特征差异，高单价与低单价商品各有市场。', 'json': '{"title":{"text":"2023年3月各品类销售数据分析","left":"center"},"tooltip":{"trigger":"axis","axisPointer":{"type":"shadow"}},"legend":{"data":["销售额","订单数","客单价"],"top":"10%"},"xAxis":{"type":"category","data":["音响","台式机","智能家居","手机","存储","家电","阅读器","耳机","出行"]},"yAxis":[{"type":"value","name":"销售额/订单数"},{"type":"value","name":"客单价"}],"series":[{"name":"销售额","type":"bar","yAxisIndex":0,"data":[498000,389000,389000,298000,287000,256000,256000,176500,176500]},{"name":"订单数","type":"bar","yAxisIndex":0,"data":[310,770,260,520,990,520,490,390,360]},{"name":"客单价","type":"line","yAxisIndex":1,"data":[1606.45,505.19,1496.15,573.08,289.9,492.31,522.45,452.56,490.28]}],"toolbox":{"feature":{"saveAsImage":{}}}}'}
+2026-06-02 09:55:12,109 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 09:55:12,514 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 09:55:12,518 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 09:55:12,524 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 09:55:12,528 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 09:55:12,528 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 09:55:12,528 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 09:55:12,529 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 09:55:12,529 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 09:55:12,529 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 09:55:31,272 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 09:56:01,834 - INFO - [app.ai.tool.mysql_tool] - {'table': {'column_name': ['category', 'total_sales', 'total_orders', 'total_quantity_sold', 'average_order_value'], 'data': [{'category': '音响', 'total_sales': '498000.0', 'total_orders': '310', 'total_quantity_sold': '380', 'average_order_value': '1606.45'}, {'category': '台式机', 'total_sales': '389000.0', 'total_orders': '770', 'total_quantity_sold': '960', 'average_order_value': '505.19'}, {'category': '智能家居', 'total_sales': '389000.0', 'total_orders': '260', 'total_quantity_sold': '330', 'average_order_value': '1496.15'}, {'category': '手机', 'total_sales': '298000.0', 'total_orders': '520', 'total_quantity_sold': '610', 'average_order_value': '573.08'}, {'category': '存储', 'total_sales': '287000.0', 'total_orders': '990', 'total_quantity_sold': '1280', 'average_order_value': '289.9'}, {'category': '家电', 'total_sales': '256000.0', 'total_orders': '520', 'total_quantity_sold': '640', 'average_order_value': '492.31'}, {'category': '阅读器', 'total_sales': '256000.0', 'total_orders': '490', 'total_quantity_sold': '610', 'average_order_value': '522.45'}, {'category': '耳机', 'total_sales': '176500.0', 'total_orders': '390', 'total_quantity_sold': '470', 'average_order_value': '452.56'}, {'category': '出行', 'total_sales': '176500.0', 'total_orders': '360', 'total_quantity_sold': '450', 'average_order_value': '490.28'}]}, 'result': '一:详细分析\n    1 销售额排名:\n        音响类商品以498,000元的销售额位居第一，远超其他品类。\n        台式机和智能家居并列第二，销售额均为389,000元。\n        手机、存储、家电和阅读器的销售额在256,000-298,000元之间。\n        耳机和出行类商品销售额最低，均为176,500元。\n\n    2 订单数量与客单价分析:\n        存储类商品订单数量最多(990单)，但客单价最低(289.9元)。\n        音响类商品订单数量最少(310单)，但客单价最高(1,606.45元)。\n        智能家居订单数量较少(260单)，但客单价高达1,496.15元，仅次于音响。\n        其他品类的客单价在450-575元之间，相对均衡。\n\n二:结论部分:\n    .高单价商品(如音响、智能家居)虽然订单量少，但贡献了较高的销售额。\n    .低单价商品(如存储)通过大量订单也能实现可观的销售额。\n    .不同品类的商品呈现出明显的消费特征差异，高单价与低单价商品各有市场。', 'json': '{"title":{"text":"2023年3月各品类销售数据分析","left":"center"},"tooltip":{"trigger":"axis","axisPointer":{"type":"shadow"}},"legend":{"data":["销售额","订单数","客单价"],"top":"10%"},"xAxis":{"type":"category","data":["音响","台式机","智能家居","手机","存储","家电","阅读器","耳机","出行"]},"yAxis":[{"type":"value","name":"销售额/订单数"},{"type":"value","name":"客单价"}],"series":[{"name":"销售额","type":"bar","yAxisIndex":0,"data":[498000,389000,389000,298000,287000,256000,256000,176500,176500]},{"name":"订单数","type":"bar","yAxisIndex":0,"data":[310,770,260,520,990,520,490,390,360]},{"name":"客单价","type":"line","yAxisIndex":1,"data":[1606.45,505.19,1496.15,573.08,289.9,492.31,522.45,452.56,490.28]}],"toolbox":{"feature":{"saveAsImage":{}}}}'}
+2026-06-02 09:59:39,508 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 10:00:06,233 - INFO - [app.ai.tool.mysql_tool] - {'table': {'column_name': ['category', 'total_sales', 'total_orders', 'total_quantity_sold', 'average_order_value'], 'data': [{'category': '音响', 'total_sales': '498000.0', 'total_orders': '310', 'total_quantity_sold': '380', 'average_order_value': '1606.45'}, {'category': '台式机', 'total_sales': '389000.0', 'total_orders': '770', 'total_quantity_sold': '960', 'average_order_value': '505.19'}, {'category': '智能家居', 'total_sales': '389000.0', 'total_orders': '260', 'total_quantity_sold': '330', 'average_order_value': '1496.15'}, {'category': '手机', 'total_sales': '298000.0', 'total_orders': '520', 'total_quantity_sold': '610', 'average_order_value': '573.08'}, {'category': '存储', 'total_sales': '287000.0', 'total_orders': '990', 'total_quantity_sold': '1280', 'average_order_value': '289.9'}, {'category': '家电', 'total_sales': '256000.0', 'total_orders': '520', 'total_quantity_sold': '640', 'average_order_value': '492.31'}, {'category': '阅读器', 'total_sales': '256000.0', 'total_orders': '490', 'total_quantity_sold': '610', 'average_order_value': '522.45'}, {'category': '耳机', 'total_sales': '176500.0', 'total_orders': '390', 'total_quantity_sold': '470', 'average_order_value': '452.56'}, {'category': '出行', 'total_sales': '176500.0', 'total_orders': '360', 'total_quantity_sold': '450', 'average_order_value': '490.28'}]}, 'result': '一:详细分析\n    1 销售额排名:\n        音响类商品以498,000元的销售额位居第一，远超其他品类。\n        台式机和智能家居并列第二，销售额均为389,000元。\n        手机、存储、家电和阅读器的销售额在256,000-298,000元之间。\n        耳机和出行类商品销售额最低，均为176,500元。\n\n    2 订单数量与客单价分析:\n        存储类商品订单数量最多(990单)，但客单价最低(289.9元)。\n        音响类商品订单数量最少(310单)，但客单价最高(1,606.45元)。\n        智能家居订单数量较少(260单)，但客单价高达1,496.15元，仅次于音响。\n        其他品类的客单价在450-575元之间，相对均衡。\n\n二:结论部分:\n    .高单价商品(如音响、智能家居)虽然订单量少，但贡献了较高的销售额。\n    .低单价商品(如存储)通过大量订单也能实现可观的销售额。\n    .不同品类的商品呈现出明显的消费特征差异，高单价与低单价商品各有市场。', 'json': '{"title":{"text":"2023年3月各品类销售数据分析","left":"center"},"tooltip":{"trigger":"axis","axisPointer":{"type":"shadow"}},"legend":{"data":["销售额","订单数","客单价"],"top":"10%"},"xAxis":{"type":"category","data":["音响","台式机","智能家居","手机","存储","家电","阅读器","耳机","出行"]},"yAxis":[{"type":"value","name":"销售额/订单数"},{"type":"value","name":"客单价"}],"series":[{"name":"销售额","type":"bar","yAxisIndex":0,"data":[498000,389000,389000,298000,287000,256000,256000,176500,176500]},{"name":"订单数","type":"bar","yAxisIndex":0,"data":[310,770,260,520,990,520,490,390,360]},{"name":"客单价","type":"line","yAxisIndex":1,"data":[1606.45,505.19,1496.15,573.08,289.9,492.31,522.45,452.56,490.28]}],"toolbox":{"feature":{"saveAsImage":{}}}}'}
+2026-06-02 10:00:22,977 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 10:00:30,764 - INFO - [app.ai.tool.mysql_tool] - {'json': '{"title":{"text":"2023年1月各品类销售数据柱状图","left":"center"},"tooltip":{"trigger":"axis","axisPointer":{"type":"shadow"}},"xAxis":{"type":"category","data":["台式机","智能家居","音响","存储","手机","家电","阅读器","耳机","出行"]},"yAxis":{"type":"value","name":"销售额"},"series":[{"name":"销售额","type":"bar","data":[456000,456000,389000,256000,245000,234000,234000,156000,156000]}],"toolbox":{"feature":{"saveAsImage":{}}}}', 'code': 200, 'msg': '生成成功'}
+2026-06-02 10:00:35,614 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-02 10:01:05,437 - INFO - [app.ai.tool.mysql_tool] - {'table': {'column_name': ['category', 'total_sales', 'total_orders', 'total_quantity_sold', 'average_order_value'], 'data': [{'category': '音响', 'total_sales': '498000.0', 'total_orders': '310', 'total_quantity_sold': '380', 'average_order_value': '1606.45'}, {'category': '台式机', 'total_sales': '389000.0', 'total_orders': '770', 'total_quantity_sold': '960', 'average_order_value': '505.19'}, {'category': '智能家居', 'total_sales': '389000.0', 'total_orders': '260', 'total_quantity_sold': '330', 'average_order_value': '1496.15'}, {'category': '手机', 'total_sales': '298000.0', 'total_orders': '520', 'total_quantity_sold': '610', 'average_order_value': '573.08'}, {'category': '存储', 'total_sales': '287000.0', 'total_orders': '990', 'total_quantity_sold': '1280', 'average_order_value': '289.9'}, {'category': '家电', 'total_sales': '256000.0', 'total_orders': '520', 'total_quantity_sold': '640', 'average_order_value': '492.31'}, {'category': '阅读器', 'total_sales': '256000.0', 'total_orders': '490', 'total_quantity_sold': '610', 'average_order_value': '522.45'}, {'category': '耳机', 'total_sales': '176500.0', 'total_orders': '390', 'total_quantity_sold': '470', 'average_order_value': '452.56'}, {'category': '出行', 'total_sales': '176500.0', 'total_orders': '360', 'total_quantity_sold': '450', 'average_order_value': '490.28'}]}, 'result': '一:详细分析\n    1 销售额排名:\n        音响类商品以498,000元的销售额位居第一，远超其他品类。\n        台式机和智能家居并列第二，销售额均为389,000元。\n        手机、存储、家电和阅读器的销售额在256,000-298,000元之间。\n        耳机和出行类商品销售额最低，均为176,500元。\n\n    2 订单数量与客单价分析:\n        存储类商品订单数量最多(990单)，但客单价最低(289.9元)。\n        音响类商品订单数量最少(310单)，但客单价最高(1,606.45元)。\n        智能家居订单数量较少(260单)，但客单价高达1,496.15元，仅次于音响。\n        其他品类的客单价在450-575元之间，相对均衡。\n\n二:结论部分:\n    .高单价商品(如音响、智能家居)虽然订单量少，但贡献了较高的销售额。\n    .低单价商品(如存储)通过大量订单也能实现可观的销售额。\n    .不同品类的商品呈现出明显的消费特征差异，高单价与低单价商品各有市场。', 'json': '{"title":{"text":"2023年3月各品类销售数据分析","left":"center"},"tooltip":{"trigger":"axis","axisPointer":{"type":"shadow"}},"legend":{"data":["销售额","订单数","客单价"],"top":"10%"},"xAxis":{"type":"category","data":["音响","台式机","智能家居","手机","存储","家电","阅读器","耳机","出行"]},"yAxis":[{"type":"value","name":"销售额/订单数"},{"type":"value","name":"客单价"}],"series":[{"name":"销售额","type":"bar","yAxisIndex":0,"data":[498000,389000,389000,298000,287000,256000,256000,176500,176500]},{"name":"订单数","type":"bar","yAxisIndex":0,"data":[310,770,260,520,990,520,490,390,360]},{"name":"客单价","type":"line","yAxisIndex":1,"data":[1606.45,505.19,1496.15,573.08,289.9,492.31,522.45,452.56,490.28]}],"toolbox":{"feature":{"saveAsImage":{}}}}'}
+2026-06-02 10:01:51,400 - INFO - [app.ai.tool.mysql_tool] - 上传文件：static/upload\word.docx
+2026-06-02 10:01:51,419 - INFO - [app.ai.tool.mysql_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-06-02 10:01:52,966 - ERROR - [app.ai.tool.mysql_tool] - 智能体处理请求时发生错误：Package not found at 'C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx'
+2026-06-02 10:04:49,142 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 10:04:49,142 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 10:04:52,016 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 10:04:52,445 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 10:04:52,449 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 10:04:52,454 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:04:52,459 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:04:52,459 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 10:04:52,460 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 10:04:52,460 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 10:04:52,460 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 10:04:52,460 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 10:05:05,108 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 10:05:05,108 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 10:05:12,617 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 10:05:13,031 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 10:05:13,036 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 10:05:13,044 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:05:13,052 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:05:13,052 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 10:05:13,053 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 10:05:13,053 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 10:05:13,053 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 10:05:13,054 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 10:05:41,755 - INFO - [app.ai.tool.mysql_tool] - 上传文件：app/static/upload\word.docx
+2026-06-02 10:05:41,782 - INFO - [app.ai.tool.mysql_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-06-02 10:17:47,566 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 10:17:47,566 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 10:17:50,552 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 10:17:51,002 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 10:17:51,007 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 10:17:51,013 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:17:51,018 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:17:51,018 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 10:17:51,018 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 10:17:51,018 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 10:17:51,019 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 10:17:51,019 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 10:18:03,778 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 10:18:03,778 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 10:18:10,703 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 10:18:11,113 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 10:18:11,118 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 10:18:11,123 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:18:11,128 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:18:11,129 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 10:18:11,129 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 10:18:11,129 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 10:18:11,129 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 10:18:11,129 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 10:18:33,199 - INFO - [app.ai.tool.mysql_tool] - 上传文件：app/static/upload\word.docx
+2026-06-02 10:18:33,226 - INFO - [app.ai.tool.mysql_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-06-02 10:18:55,955 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 10:18:55,955 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 10:18:58,739 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 10:18:59,161 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 10:18:59,167 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 10:18:59,173 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:18:59,177 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:18:59,178 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 10:18:59,178 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 10:18:59,178 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 10:18:59,178 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 10:18:59,179 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 10:20:03,079 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 10:20:03,080 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 10:20:05,788 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 10:20:06,192 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 10:20:06,197 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 10:20:06,202 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:20:06,206 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:20:06,207 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 10:20:06,207 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 10:20:06,207 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 10:20:06,207 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 10:20:06,207 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 10:23:39,437 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 10:23:39,437 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 10:25:10,359 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 10:25:10,774 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 10:25:10,780 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 10:25:10,786 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:25:10,791 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:25:10,791 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 10:25:10,792 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 10:25:10,792 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 10:25:10,792 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 10:25:10,792 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 10:25:27,054 - INFO - [app.ai.tool.mysql_tool] - 上传文件：app/static/upload\word.docx
+2026-06-02 10:25:27,084 - INFO - [app.ai.tool.mysql_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-06-02 10:34:04,481 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 10:34:04,481 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-02 10:34:07,375 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 10:34:07,780 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 10:34:07,785 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 10:34:07,790 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:34:07,794 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:34:07,794 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 10:34:07,794 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 10:34:07,794 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 10:34:07,795 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 10:34:07,795 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 10:34:14,610 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-02 10:34:15,013 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-02 10:34:15,017 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-02 10:34:15,023 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:34:15,028 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-02 10:34:15,028 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-02 10:34:15,028 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-02 10:34:15,028 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-02 10:34:15,028 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-02 10:34:15,028 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-02 10:34:33,673 - INFO - [app.ai.tool.mysql_tool] - 上传文件：app/static/upload\word.docx
+2026-06-02 10:34:33,700 - INFO - [app.ai.tool.mysql_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
+2026-06-02 10:35:31,990 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-02 10:35:31,990 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
