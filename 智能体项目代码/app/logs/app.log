@@ -835,3 +835,30 @@ For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/erro
 2026-06-02 10:34:33,700 - INFO - [app.ai.tool.mysql_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\智能体项目代码\app\static\upload\word.docx
 2026-06-02 10:35:31,990 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
 2026-06-02 10:35:31,990 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
+2026-06-03 09:00:50,275 - INFO - [app.ai.tool.mysql_tool] - 初始化登录验证码智能体
+2026-06-03 09:00:50,832 - INFO - [app.ai.tool.mysql_tool] - 初始化注册验证码智能体
+2026-06-03 09:00:50,837 - INFO - [app.ai.tool.mysql_tool] - 数据库写入智能体
+2026-06-03 09:00:50,841 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-03 09:00:50,846 - INFO - [app.ai.tool.mysql_tool] - 初始化 SQL 问答智能体
+2026-06-03 09:00:50,846 - INFO - [app.ai.tool.mysql_tool] - 初始化 Echarts 智能体
+2026-06-03 09:00:50,847 - INFO - [app.ai.tool.mysql_tool] - 初始化 智能分析 图标智能体
+2026-06-03 09:00:50,847 - INFO - [app.ai.tool.mysql_tool] - 初始化文件数据分析智能体
+2026-06-03 09:00:50,847 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例成功
+2026-06-03 09:00:50,847 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例成功
+2026-06-03 09:47:51,806 - INFO - [app.ai.tool.mysql_tool] - 邮件发送成功
+2026-06-03 09:47:53,565 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：{'data': '8429', 'code': '200', 'msg': '发送成功'}
+2026-06-03 09:47:53,592 - INFO - [app.ai.tool.mysql_tool] - 验证码发送成功，存储成功
+2026-06-03 09:48:13,799 - INFO - [app.ai.tool.mysql_tool] - 字节码:b'8429'
+2026-06-03 09:48:15,969 - WARNING - [app.ai.tool.mysql_tool] - MySQL 执行失败：(1364, "Field 'role' doesn't have a default value")
+2026-06-03 09:48:21,227 - INFO - [app.ai.tool.mysql_tool] - 智能体返回结果：Returning structured response: data='' code='200' msg='写入成功'
+2026-06-03 09:48:21,228 - INFO - [app.ai.tool.mysql_tool] - 用户信息写入结果：Returning structured response: data='' code='200' msg='写入成功'
+2026-06-03 09:49:32,478 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-03 09:49:55,167 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-03 09:51:19,122 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-03 09:51:28,131 - INFO - [app.ai.tool.mysql_tool] - {'json': '{"title":{"text":"2023年1月各品类销售数据柱状图","left":"center"},"tooltip":{"trigger":"axis","axisPointer":{"type":"shadow"}},"xAxis":{"type":"category","data":["台式机","智能家居","音响","存储","手机","家电","阅读器","耳机","出行"]},"yAxis":{"type":"value","name":"销售额"},"series":[{"name":"销售额","type":"bar","data":[456000,456000,389000,256000,245000,234000,234000,156000,156000]}],"toolbox":{"feature":{"saveAsImage":{}}}}', 'code': 200, 'msg': '生成成功'}
+2026-06-03 09:51:49,173 - INFO - [app.ai.tool.mysql_tool] - 用户 3327354636@qq.com
+2026-06-03 09:52:13,725 - INFO - [app.ai.tool.mysql_tool] - {'table': {'column_name': ['category', 'total_sales', 'total_orders', 'total_quantity_sold', 'average_order_value'], 'data': [{'category': '台式机', 'total_sales': '456000.0', 'total_orders': '900', 'total_quantity_sold': '1130', 'average_order_value': '506.67'}, {'category': '智能家居', 'total_sales': '456000.0', 'total_orders': '300', 'total_quantity_sold': '380', 'average_order_value': '1520.0'}, {'category': '音响', 'total_sales': '389000.0', 'total_orders': '240', 'total_quantity_sold': '290', 'average_order_value': '1620.83'}, {'category': '存储', 'total_sales': '256000.0', 'total_orders': '890', 'total_quantity_sold': '1150', 'average_order_value': '287.64'}, {'category': '手机', 'total_sales': '245000.0', 'total_orders': '450', 'total_quantity_sold': '520', 'average_order_value': '544.44'}, {'category': '家电', 'total_sales': '234000.0', 'total_orders': '480', 'total_quantity_sold': '590', 'average_order_value': '487.5'}, {'category': '阅读器', 'total_sales': '234000.0', 'total_orders': '450', 'total_quantity_sold': '560', 'average_order_value': '520.0'}, {'category': '耳机', 'total_sales': '156000.0', 'total_orders': '350', 'total_quantity_sold': '420', 'average_order_value': '445.71'}, {'category': '出行', 'total_sales': '156000.0', 'total_orders': '320', 'total_quantity_sold': '400', 'average_order_value': '487.5'}]}, 'result': '一:详细分析\n    1 销售额排名:\n        台式机和智能家居并列第一，销售额均为456,000元。\n        音响类商品以389,000元的销售额位居第三。\n        存储、手机、家电和阅读器的销售额在234,000-256,000元之间。\n        耳机和出行类商品销售额最低，均为156,000元。\n\n    2 订单数量与客单价分析:\n        台式机订单数量最多(900单)，客单价为506.67元。\n        存储类商品订单数量第二多(890单)，但客单价最低(287.64元)。\n        音响类商品订单数量最少(240单)，但客单价最高(1,620.83元)。\n        智能家居订单数量较少(300单)，但客单价高达1,520.00元，仅次于音响。\n        其他品类的客单价在445-545元之间，相对均衡。\n\n二:结论部分:\n    .高单价商品(如音响、智能家居)虽然订单量少，但贡献了较高的销售额。\n    .低单价商品(如存储、台式机)通过大量订单也能实现可观的销售额。\n    .不同品类的商品呈现出明显的消费特征差异，高单价与低单价商品各有市场。', 'json': '{"title":{"text":"2023年1月各品类销售数据分析","left":"center"},"tooltip":{"trigger":"axis","axisPointer":{"type":"shadow"}},"legend":{"data":["销售额","订单数","客单价"],"top":"10%"},"xAxis":{"type":"category","data":["台式机","智能家居","音响","存储","手机","家电","阅读器","耳机","出行"]},"yAxis":[{"type":"value","name":"销售额/订单数"},{"type":"value","name":"客单价"}],"series":[{"name":"销售额","type":"bar","yAxisIndex":0,"data":[456000,456000,389000,256000,245000,234000,234000,156000,156000]},{"name":"订单数","type":"bar","yAxisIndex":0,"data":[900,300,240,890,450,480,450,350,320]},{"name":"客单价","type":"line","yAxisIndex":1,"data":[506.67,1520.0,1620.83,287.64,544.44,487.5,520.0,445.71,487.5]}],"toolbox":{"feature":{"saveAsImage":{}}}}'}
+2026-06-03 09:52:52,359 - INFO - [app.ai.tool.mysql_tool] - 上传文件：app/static/upload\word.docx
+2026-06-03 09:52:52,396 - INFO - [app.ai.tool.mysql_tool] - 上传文件路径：C:\Users\33273\Desktop\智能体项目\数据分析系统\智能体项目代码\app\static\upload\word.docx
+2026-06-03 10:12:35,305 - INFO - [app.ai.tool.mysql_tool] - 创建智能体实例失败
+2026-06-03 10:12:35,306 - INFO - [app.ai.tool.mysql_tool] - sql智能体实例失败
